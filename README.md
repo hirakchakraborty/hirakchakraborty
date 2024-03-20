@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 7478107725
-- 😄 Pronouns: Hirak
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
